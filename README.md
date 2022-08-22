@@ -1,0 +1,2 @@
+# Slack_conversations.list
+ページャー対応したチャンネルGETのコード
